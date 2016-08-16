@@ -1,0 +1,25 @@
+{
+  "name": "timestamp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": "6.2.2"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bing.search": "^1.0.1",
+    "express": "^4.14.0",
+    "foreman": "1.4.1",
+    "mongodb": "^2.2.6",
+    "validator": "^5.5.0"
+  },
+  "devDependencies": {
+    "tern-lint": "^0.6.0",
+    "tern-node-express": "^0.4.0"
+  }
+}
